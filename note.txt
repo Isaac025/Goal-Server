@@ -5,6 +5,11 @@
 
 }
 
+installations
+npm init -y
+npm i express
+npm i nodemon --save-dev
+
 validation
 data type
 vaid types: string, Boolean, date, Array, ObjectId, mixed, number (min, max)
